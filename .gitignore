@@ -71,6 +71,7 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+temp_auto_push.bat
 # PyBuilder
 target/
 
@@ -143,4 +144,4 @@ src/main/gen
 !.idea/.name
 !.idea/icon.svg
 .DS_Store
-**/.DS_Store
+**/.DS_Store.gitignore
